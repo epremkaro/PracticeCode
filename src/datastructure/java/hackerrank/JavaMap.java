@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.java.hackerrank;
 
 import java.util.HashMap;
 import java.util.Map;

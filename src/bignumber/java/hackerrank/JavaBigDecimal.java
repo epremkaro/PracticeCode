@@ -1,4 +1,4 @@
-package bignumber;
+package bignumber.java.hackerrank;
 
 import java.util.Scanner;
 

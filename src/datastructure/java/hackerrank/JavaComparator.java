@@ -1,4 +1,4 @@
-package datastructure;
+package datastructure.java.hackerrank;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 class Checker implements Comparator<Player>{
 
-	@Override
 	public int compare(Player p1, Player p2) {
 		int result = Integer.compare(p2.score, p1.score);
 		if(result != 0) return result;
