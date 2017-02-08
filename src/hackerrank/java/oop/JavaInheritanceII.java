@@ -16,7 +16,7 @@ class Adder extends Arithmetic {
 	}
 }
 
-class Solution {
+public class JavaInheritanceII {
 
 	public static void main(String[] argh) {
 		Adder X = new Adder();
@@ -25,6 +25,7 @@ class Solution {
 		System.out.print(X.add(10, 32) + " " + X.add(10, 3) + " "
 				+ X.add(10, 10) + "\n");
 
+		System.out.println("");
 	}
 
 	static class Arithmetic {
