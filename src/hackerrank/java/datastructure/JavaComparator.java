@@ -1,4 +1,4 @@
-package datastructure.java.hackerrank;
+package hackerrank.java.datastructure;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package oop.java.hackerrank;
+package hackerrank.java.oop;
 
 class Arithmetic {
 	public int add(int a, int b) {
