@@ -29,7 +29,6 @@ class TreeHeightOfaBinaryTree {
         return 1 + Math.max(height(root.left), height(root.right));
        
         
-        
     }
 	public static Node insert(Node root, int data) {
         if(root == null){
