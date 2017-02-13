@@ -1,4 +1,4 @@
-package data_structures.trees;
+package hackerrank.data_structures.trees;
 
 import java.util.*;
 import java.io.*;
