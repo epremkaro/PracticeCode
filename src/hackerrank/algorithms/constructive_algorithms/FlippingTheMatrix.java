@@ -11,9 +11,16 @@ public class FlippingTheMatrix {
 		System.out.println(Arrays.toString(p));
 		reverse(p);
 		System.out.println(Arrays.toString(p));
-		
-
+		String st = "asfaas";
+		int mid = st.length()/2;
+		String s1 = st.substring(0, mid);
+        String s2 = st.substring(mid);
+        
+        System.out.println(s1);
+        System.out.println(s2);
 	}
+	
+	
 	
 	public static void reverse(int[] arr){
 		
