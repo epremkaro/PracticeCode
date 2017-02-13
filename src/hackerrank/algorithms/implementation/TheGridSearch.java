@@ -2,7 +2,6 @@ package hackerrank.algorithms.implementation;
 
 import java.util.Scanner;
 
-import org.hamcrest.core.Is;
 
 public class TheGridSearch {
 
