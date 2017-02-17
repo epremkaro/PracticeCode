@@ -1,5 +1,9 @@
 package hackerrank.algorithms.sorting;
 
+<<<<<<< HEAD
+=======
+import java.util.Arrays;
+>>>>>>> branch 'master' of https://github.com/epremkaro/HackerRank
 import java.util.Scanner;
 
 public class RunningTimeOfQuicksort {
