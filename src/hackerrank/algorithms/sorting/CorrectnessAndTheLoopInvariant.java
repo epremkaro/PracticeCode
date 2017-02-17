@@ -3,6 +3,10 @@ package hackerrank.algorithms.sorting;
 import java.util.Scanner;
 
 public class CorrectnessAndTheLoopInvariant {
+	
+	public CorrectnessAndTheLoopInvariant() {
+		// TODO Auto-generated constructor stub
+	}
 	public static void insertionSort(int[] A){
         for(int i = 1; i < A.length; i++){
             int value = A[i];
