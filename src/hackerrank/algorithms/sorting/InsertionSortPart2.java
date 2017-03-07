@@ -24,9 +24,8 @@ public class InsertionSortPart2 {
 //                    printArray(ar);
                 }
                 
-                printArray(ar);
-            }else
-            	printArray(ar);
+            }
+            printArray(ar);
         }
     }
     
