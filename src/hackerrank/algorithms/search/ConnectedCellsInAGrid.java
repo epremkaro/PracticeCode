@@ -21,7 +21,7 @@ public class ConnectedCellsInAGrid {
 	        in.close();
 	        
 	        int[][] originMtx = cloneArray(mtx);
-	        
+	        cloneArray(null);
 	        int max = 0;
 	        for (int i = 0; i < n; i++){
 	            for (int j = 0; j < m; j++){
@@ -46,6 +46,10 @@ public class ConnectedCellsInAGrid {
 	    }
 	    
 	    private static int[][] cloneArray(int[][] src) {
+	    	
+	    	if (src == null)
+	    		return null;
+	    	
 	        int length = src.length;
 	        int[][] target = new int[length][src[0].length];
 	        for (int i = 0; i < length; i++) {
