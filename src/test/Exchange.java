@@ -8,7 +8,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Exchange {
-	
+	 
 	public static void main(String[] args) {
 		try {
 			Scanner scan = new Scanner(new File("D:\\IBM_21MAR2017_XW10LADD0001.mef3"));
