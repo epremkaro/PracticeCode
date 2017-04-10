@@ -5,7 +5,7 @@ import java.util.Stack;
 public class SpecialStack extends Stack<Integer>{
 	
 	private Stack<Integer> min;
-	
+	 
 	public SpecialStack() {
 		min = new Stack<Integer>();
 	}
