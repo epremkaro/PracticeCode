@@ -10,6 +10,7 @@ public class SpecialStack extends Stack<Integer>{
 		min = new Stack<Integer>();
 	}
 	
+	
 	@Override
 	public Integer push(Integer item){
 		if(this.isEmpty()){
