@@ -49,6 +49,8 @@ public class LarrysArray {
                 System.out.println("YES");
             else
                 System.out.println("NO");
+
+            System.out.println("");
             
             
             
